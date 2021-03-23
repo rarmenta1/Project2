@@ -1,13 +1,17 @@
 #main	{
-	
+	background: cyan;
 }
 
-#title {
-	font-family: 'Lobster', cursive;
+#heading {
+	font-family: ;
+	text-align: center;
+	padding: 0.5em;
+	margin: 0.25em 14em;
+	border: red;
 }
 
 #sub-heading	{
-	font-family: 'Lobster', cursive;
+	font-family: ;
 }
 
 #main-navbar	{
@@ -39,4 +43,11 @@
   padding: 0.625em 1.25em;
   color: #fff;
   text-decoration: none;
+}
+
+#intro-container	{
+
+}
+
+.intro	{
 }
