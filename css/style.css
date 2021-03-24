@@ -49,10 +49,20 @@
 	background-color: rgb(114, 137, 218);
 	color: white;
 	padding: 1em 4em;
+	position: relative;
 	margin: 0em 20em;
+	float: left;
 
 }
 
 .intro	{
 	margin: 1em 0em 1.5em 0em;
+}
+
+.pinky	{
+	width: 50%;
+}
+.pinky2	{
+	width: 50%;
+	float: right;
 }
