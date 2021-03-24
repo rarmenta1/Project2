@@ -1,13 +1,13 @@
 #main	{
-	background: cyan;
+	background: #121212;
 }
 
 #heading {
 	font-family: ;
+	color: white;
 	text-align: center;
 	padding: 0.5em;
 	margin: 0.25em 14em;
-	border: red;
 }
 
 #sub-heading	{
@@ -45,9 +45,14 @@
   text-decoration: none;
 }
 
-#intro-container	{
+#index-container	{
+	background-color: rgb(114, 137, 218);
+	color: white;
+	padding: 1em 4em;
+	margin: 0em 20em;
 
 }
 
 .intro	{
+	margin: 1em 0em 1.5em 0em;
 }
