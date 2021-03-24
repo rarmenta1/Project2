@@ -1,17 +1,6 @@
 #main	{
 	background: #121212;
-}
-
-#heading {
-	font-family: ;
 	color: white;
-	text-align: center;
-	padding: 0.5em;
-	margin: 0.25em 14em;
-}
-
-#sub-heading	{
-	font-family: ;
 }
 
 #main-navbar	{
@@ -21,6 +10,8 @@
 
 #navbar-container	{
 	width: 100%;
+	float: left;
+	position: relative;
 }
 
 #main-navbar ul {
@@ -36,6 +27,7 @@
   float: left;
   position: relative;
   right: 50%;
+	display: block;
 }
 
 #main-navbar ul li a {
@@ -45,9 +37,24 @@
   text-decoration: none;
 }
 
-#index-container	{
-	background-color: rgb(114, 137, 218);
+
+
+#heading {
+	font-family: ;
 	color: white;
+	text-align: center;
+	padding: 0.5em;
+	margin: 0.25em 14em;
+}
+
+#sub-heading	{
+	font-family: ;
+}
+
+
+
+#main-container	{
+	background-color: rgb(114, 137, 218);
 	padding: 1em 4em;
 	position: relative;
 	margin: 0em 20em;
