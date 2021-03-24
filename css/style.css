@@ -2,23 +2,19 @@ body	{
 	background-color: #121212;
 	color: white;
 }
-
 #main	{
 	width: 100%;
 	margin: 0;
 }
-
 #main-navbar	{
 	background-color: rgb(114, 137, 218);
 	overflow: hidden;
 }
-
 #navbar-container	{
 	width: 100%;
 	float: left;
 	position: relative;
 }
-
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
@@ -27,29 +23,24 @@ body	{
   left: 50%;
   float: left;
 }
-
 #main-navbar ul li  {
   float: left;
   position: relative;
   right: 50%;
 	display: block;
 }
-
 #main-navbar ul li a {
   display: block;
   padding: 0.625em 1.25em;
   color: #fff;
   text-decoration: none;
 }
-
 #main-navbar ul li a:hover  {
   background-color: #2c2f33;
 }
-
 #main-navbar #onpage {
   background-color: #000000;
 }
-
 #heading {
 	font-family: 'Trispace', sans-serif;	
 	color: white;
@@ -57,11 +48,9 @@ body	{
 	padding: 0.5em;
 	margin: 0.25em 14em;
 }
-
 h1, h2, h3	{
 	font-family: 'Trispace', sans-serif;	
 }
-
 #main-container	{
 	background-color: rgb(114, 137, 218);
 	padding: 1em 4em;
@@ -69,7 +58,6 @@ h1, h2, h3	{
 	margin: 0em 20em;
 	display: block;
 }
-
 #main-container2	{
 	background-color: rgb(114, 137, 218);
 	padding: 1em 4em;
@@ -78,35 +66,34 @@ h1, h2, h3	{
 	height: 80em;
 	display: block;
 }
-
-
 #exp	{
 	width: 100%;
 	margin: 2em 0 13em 0;
 }
-
-
 .x	{
 	width: 50%;
 	float: left;
-	
 }
-
 #education	{
 	width: 45%;
 	float: left;
 }
-
 #skills	{
 	width: 45%;
 	float: left;
 	margin: 2em
 }
 
+#watch	{
+	width: 100%;
+}
+.images2	{
+	width: 30%;
+}
+
 .intro	{
 	margin: 1em 0em 1.5em 0em;
 }
-
 .pinky	{
 	width: 50%;
 }
@@ -114,12 +101,7 @@ h1, h2, h3	{
 	width: 50%;
 	float: right;
 }
-
 .images	{
 	width: 100%;
 	position: relative;
-}
-
-.images2{
-	width: 50%;
 }
