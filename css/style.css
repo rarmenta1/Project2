@@ -39,6 +39,7 @@ body	{
 }
 #main-navbar #onpage {
   background-color: #000000;
+  text-decoration: underline;
 }
 #heading {
 	font-family: 'Trispace', sans-serif;	
