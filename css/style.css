@@ -12,7 +12,6 @@ body	{
 }
 #navbar-container	{
 	width: 100%;
-	float: left;
 	position: relative;
 }
 #main-navbar ul {
