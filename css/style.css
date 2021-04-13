@@ -77,10 +77,6 @@ h1, h2, h3	{
 	padding: 0em 2em;
 }
 
-#info	{
-	
-}
-
 #exp	{
 	width: 100%;
 	margin: 2em 0 13em 0;
@@ -116,6 +112,7 @@ img	{
 .pic	{
 	width: 50%;
 	float: right;
+	position: relative;
 }
 
 .intro	{
