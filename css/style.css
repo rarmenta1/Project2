@@ -64,17 +64,18 @@ h1, h2, h3	{
 	background-color: rgb(114, 137, 218);
 	width: 50%;
 	position: relative;
-	padding: 2em 2em;
+	padding: 0.5em 2em;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #main-container2	{
 	background-color: rgb(114, 137, 218);
-	width: 50%;
+	width: 960px;
 	position: absolute;
-	margin: 0 25%;
-	padding: 0em 2em;
+	margin: 0 480px;
+	padding: 0 25px;
+
 }
 
 #exp	{
@@ -95,6 +96,13 @@ h1, h2, h3	{
 	margin: 2em
 }
 
+img	{
+	width: 30%;
+}
+
+.groups	{
+	width: 100%;
+}
 .yt	{
 	width: 100%;
 }
@@ -102,27 +110,9 @@ h1, h2, h3	{
 .pic	{
 	width: 50%;
 	float: right;
-	position: relative;
 }
 
 .desc	{
 	float: left;
 	padding: 0.5em 0;
-}
-
-
-
-.intro	{
-	margin: 1em 0em 1.5em 0em;
-}
-.pinky	{
-	width: 50%;
-}
-.pinky2	{
-	width: 50%;
-	float: right;
-}
-.images	{
-	width: 100%;
-	position: relative;
 }
