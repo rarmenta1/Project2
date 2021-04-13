@@ -95,16 +95,6 @@ h1, h2, h3	{
 	margin: 2em
 }
 
-#watch	{
-	width: 100%;
-}
-img	{
-	width: 30%;
-}
-
-.groups	{
-	width: 100%;
-}
 .yt	{
 	width: 100%;
 }
@@ -119,6 +109,8 @@ img	{
 	float: left;
 	padding: 0.5em 0;
 }
+
+
 
 .intro	{
 	margin: 1em 0em 1.5em 0em;
