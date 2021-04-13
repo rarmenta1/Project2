@@ -54,14 +54,14 @@ h1, h2, h3	{
 #main-container	{
 	background-color: rgb(114, 137, 218);
 	padding: 1em 4em;
-	position: relative;
+	position: absolute;
 	margin: 0em 20em;
 	display: block;
 }
 #main-container2	{
 	background-color: rgb(114, 137, 218);
 	padding: 1em 4em;
-	position: relative;
+	position: absolute;
 	margin: 0em 15em;
 	height: 80em;
 	display: block;
