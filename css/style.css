@@ -23,9 +23,9 @@ body	{
   float: left;
 }
 #main-navbar ul li  {
-  float: left;
-  position: relative;
-  right: 50%;
+	float: left;
+	position: relative;
+	right: 50%;
 	display: block;
 }
 #main-navbar ul li a {
@@ -41,24 +41,28 @@ body	{
   background-color: #000000;
   text-decoration: underline;
 }
+
 #heading {
 	font-family: 'Trispace', sans-serif;	
 	color: white;
 	text-align: center;
-	padding: 0.5em;
-	margin: 0.25em 14em;
+	width: 50%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;;
+}
+
+#title2	{
+	width: 960px;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1, h2, h3	{
 	font-family: 'Trispace', sans-serif;	
 }
-#heading{
-	width: 50%;
-	position: relative;
-	margin-left: auto;
-	margin-right: auto;
-	
-}
+
 
 #main-container	{
 	background-color: rgb(114, 137, 218);
@@ -72,32 +76,24 @@ h1, h2, h3	{
 #main-container2	{
 	background-color: rgb(114, 137, 218);
 	width: 960px;
-	position: absolute;
-	margin: 0 480px;
-	padding: 0 25px;
+	position: relative;
+	padding: 0.25px 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.info	{
 
 }
 
-#exp	{
-	width: 100%;
-	margin: 2em 0 13em 0;
-}
-.x	{
-	width: 50%;
-	float: left;
-}
-#education	{
-	width: 45%;
-	float: left;
-}
-#skills	{
-	width: 45%;
-	float: left;
-	margin: 2em
+.volunteers	{
+	width: 960px;
+	position: relative;
+
 }
 
-img	{
-	width: 30%;
+.mpic	{
+	width: 25%;
 }
 
 .groups	{
