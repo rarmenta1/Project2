@@ -102,9 +102,22 @@ h1, h2, h3	{
 #watch	{
 	width: 100%;
 }
-.images2	{
+img	{
 	width: 30%;
 }
+
+.groups	{
+	width: 100%;
+}
+.yt	{
+	width: 100%;
+}
+
+#games	{
+	width: 100%;
+}
+
+
 
 .intro	{
 	margin: 1em 0em 1.5em 0em;
