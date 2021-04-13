@@ -60,12 +60,17 @@ h1, h2, h3	{
 }
 #main-container2	{
 	background-color: rgb(114, 137, 218);
-	padding: 1em 4em;
 	position: absolute;
+	padding: 1em 4em;
 	margin: 0em 15em;
-	height: 80em;
-	display: block;
+	height:;
+	
 }
+
+#info	{
+	
+}
+
 #exp	{
 	width: 100%;
 	margin: 2em 0 13em 0;
