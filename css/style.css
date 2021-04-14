@@ -60,12 +60,13 @@ body	{
 }
 
 h1, h2, h3	{
+	float: ;
 	font-family: 'Trispace', sans-serif;	
 }
 
 
 #main-container	{
-	background-color: red;
+	background-color: #d80000;
 	width: 50%;
 	position: relative;
 	padding: 0.5em 2em;
@@ -75,6 +76,7 @@ h1, h2, h3	{
 
 #main-container2	{
 	background-color: rgb(114, 137, 218);
+	font-family: 'Libre Baskerville', serif;	
 	width: 960px;
 	position: relative;
 	padding: 0.25px 50px;
@@ -91,22 +93,30 @@ h1, h2, h3	{
 	margin-right: auto;
 }
 
+h3	{
+	text-decoration: underline;
+	font-style: italic;
+}
+
+p	{
+	font-size: 15px;
+}
+
 .volunteers	{
 	width: 960px;
 	position: relative;
 }
 
-.mpic	{
-	width: 25%;
-}
-
 .groups	{
 	width: 100%;
 }
+
 .yt	{
 	width: 100%;
 }
-
+.mpic	{
+	width: 25%;
+}
 .pic	{
 	width: 50%;
 	float: right;
