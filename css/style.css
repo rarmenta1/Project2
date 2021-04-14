@@ -65,7 +65,7 @@ h1, h2, h3	{
 
 
 #main-container	{
-	background-color: rgb(114, 137, 218);
+	background-color: red;
 	width: 50%;
 	position: relative;
 	padding: 0.5em 2em;
@@ -82,14 +82,18 @@ h1, h2, h3	{
 	margin-right: auto;
 }
 
-.info	{
-
+#main-container3	{
+	background-color: green;
+	width: 50%;
+	position: relative;
+	padding: 0.5em 2em;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .volunteers	{
 	width: 960px;
 	position: relative;
-
 }
 
 .mpic	{
